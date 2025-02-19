@@ -1,0 +1,7 @@
+.arole:nth-child(3) .del-role {
+    display: none;
+}
+
+.arole:nth-child(3) .del-role-create {
+    display: none;
+}
